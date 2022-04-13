@@ -1,5 +1,5 @@
 import mysql.connector as sql
-import panda as pd
+import pandas as pd
 
 u = input('PLEASE PROVIDE YOUR MYSQL USERNAME:  ')
 p = input('PLEASE GIVE YOUR MYSQL PASSWORD:  ')
